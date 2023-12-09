@@ -4,7 +4,7 @@ The Xerox sales process for solution selling by mapping the process to java clas
 Report has answer to the following questions in terms of sales revenues
 
 1)Our top 3 best negotiated solutions (meaning solutions that sell above target) broken down by market segments.
-2)Our 3 best customers (customers who buy about target price)
-3)Our top 3 best sales people (sell higher that target)
+2)Our 3 best customers (customers who buy about target price).
+3)Our top 3 best sales people (sell higher that target).
 4)Our total marginal revenue broken down by market that is above or below expected target (actual minus target).
 5)Determine if the company is pricing its solutions correctly. Show how to update price ranges so prices perform at optimum levels (higher and lower targets).
