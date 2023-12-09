@@ -1,0 +1,42 @@
+﻿Customer,Salesperson,Product Name,Sales Price,Quantity
+Dell,Xerox sales,Scanner 3  1,18000,1
+Dell,Xerox sales,Scanner 4,19500,4
+Dell,Xerox sales,Printer 2,36500,10
+Dell,Xerox sales,Photocopier 2,50000,1
+Dell,Xerox sales,Scanner  5,25000,3
+Dell,Xerox sales,Scanner 6,105000,2
+Dell,Xerox sales,Printer 3,36500,3
+Dell,Xerox sales,Photocopier 3,50000,2
+Microsoft,OnePlus sales,Scanner 3  1,19000,2
+Microsoft,OnePlus sales,Scanner 4,18500,5
+Microsoft,OnePlus sales,Printer 2,35500,11
+Microsoft,OnePlus sales,Photocopier 2,49000,2
+Microsoft,OnePlus sales,Scanner  5,24000,4
+Microsoft,OnePlus sales,Scanner 6,103000,3
+Microsoft,OnePlus sales,Printer 3,36400,4
+Microsoft,OnePlus sales,Photocopier 3,51000,3
+Google,Microsoft sales,Scanner 3  1,19500,3
+Google,Microsoft sales,Scanner 4,19500,4
+Google,Microsoft sales,Printer 2,33500,11
+Google,Microsoft sales,Photocopier 2,48000,2
+Google,Microsoft sales,Scanner  5,27000,4
+Google,Microsoft sales,Scanner 6,109000,5
+Google,Microsoft sales,Printer 3,32400,2
+Google,Microsoft sales,Photocopier 3,55000,3
+JP Morgan,HP sales,Scanner 13  1,15000,2
+JP Morgan,HP sales,Scanner 14,18000,3
+JP Morgan,HP sales,Color Printer 112,30000,1
+State Street,Dell sales,Photocopier 922,50000,2
+State Street,Dell sales,Low toner Scanner  102,22000,4
+State Street,Dell sales,Speedy color Scanner 611,90000,1
+Apple,Apple sales,Scanner 13  1,18000,2
+Apple,Apple sales,Scanner 14,25000,1
+Apple,Apple sales,Color Printer 112,12000,3
+Amazon,Samsung sales,Scanner 3  1,27000,1
+Amazon,Samsung sales,Scanner 4,95000,4
+Amazon,Samsung sales,Printer 2,29500,10
+Amazon,Samsung sales,Photocopier 2,30000,1
+Amazon,Samsung sales,Scanner  5,20000,3
+Amazon,Samsung sales,Scanner 6,95000,2
+Amazon,Samsung sales,Printer 3,26500,3
+Amazon,Samsung sales,Photocopier 3,40000,2

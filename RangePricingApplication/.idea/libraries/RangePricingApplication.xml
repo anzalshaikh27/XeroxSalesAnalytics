@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RangePricingApplication">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/RangePricingApplication.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
